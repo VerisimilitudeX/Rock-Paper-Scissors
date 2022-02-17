@@ -1,4 +1,3 @@
-
 player1 = input("Player 1, please choose rock, paper, or scissors: ")
 
 print("\n" * 100)
